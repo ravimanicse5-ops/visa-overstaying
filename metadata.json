@@ -1,0 +1,6 @@
+{
+  "name": "e-FRRO ProActive: Real-Time Visa Tracking & Alert System",
+  "description": "Continuous visa compliance tracking, smart SIM identity linking, automated escalation alerts, and hardware E-Gate simulation for immigration management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
